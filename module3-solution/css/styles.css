@@ -1,0 +1,117 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #e2dede;
+  font-family: sans-serif;	
+}
+
+/* HEADER */
+/* HEADER */
+
+#header-nav {
+	background-color: #ff3030;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand {
+	padding-top: 12px;
+}
+
+.navbar-brand h1 { /* Brand Name at top of page */
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #223;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.navbar-brand a:hover {
+	text-decoration: none;
+}
+
+body .navbar-default .navbar-toggle:hover {
+	background-color: #470000;
+}
+
+/*Sets the drop-down nav to color black*/
+#collapsable-nav {
+	background: #470000;
+	border: 0px;
+}
+
+/* Not XS screen: Used to modify the above so black doesn't so up in screen sizes >small */
+@media (min-width:768px){
+	#collapsable-nav {
+		visibility: hidden;
+	}
+}
+
+#nav-list {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#nav-list a {
+	text-align: center;
+	color: #ffffff;
+	font-size: 1.5em;
+}
+
+#nav-list a:hover {
+	background: #ff9989;
+}
+
+/*button.navbar-toggle targets the white border background around the three lines*/
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1.5px solid #ffffff;
+}
+
+/*END OF HEADER*/
+/*END OF HEADER*/
+
+
+/*START OF BODY*/
+/*START OF BODY*/
+
+body h1 {
+	color: black;
+	margin-top: 40px;
+}
+
+#container-textbox {
+	margin: 0px auto 0px auto;
+	padding: 13px 25px 12px 25px;
+	text-align: center;
+}
+
+/* Used to modify the above so that the padding is increased on XS sized screens */
+@media (max-width:767px){
+	#container-textbox {
+		padding-left: 75px;
+		padding-right: 75px;
+	}
+}
+
+#body-text {
+	padding: 0px 15px 0px 15px;
+	background-color: #ff4d4d;
+	width: 100%;
+}
+
+#body-text p {
+	padding-bottom: 5px;
+	margin-bottom: 0px;
+}
+
+.title {
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 1.6em;
+}
+
+.row {
+	margin: 0px;
+}
