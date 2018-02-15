@@ -8,16 +8,18 @@ I would highly recommend taking it if you want to advance your HTML, CSS and Jav
 ##  
 
 ### Assignment 2 Solution:
+[Assignment Description](https://github.com/Confidenceiskey/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
 [Preview](https://confidenceiskey.github.io/coursera-test/module2-solution/)    
 [Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module2-solution)
 ## 
 
 ### Assignment 3 Solution:
+[Assignment Description](https://github.com/Confidenceiskey/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
 [Preview](https://confidenceiskey.github.io/coursera-test/module3-solution/)    
 [Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module3-solution)
 
 ### Assignment 3 (Bonus) Solution:
-
+[Assignment Description](https://github.com/Confidenceiskey/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
 [Preview](https://confidenceiskey.github.io/coursera-test/module3-solution-bonus/)    
 [Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module3-solution-bonus)
 ##
