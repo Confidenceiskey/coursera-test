@@ -11,12 +11,21 @@ I would highly recommend taking it if you want to advance your HTML, CSS and Jav
 [Preview](https://confidenceiskey.github.io/coursera-test/module2-solution/)    
 [Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module2-solution)
 
+### Assignment 2 (Bonus) Solution:
+
+[Preview](https://confidenceiskey.github.io/coursera-test/module2-solution-bonus/)    
+[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module2-solution-bonus)
+
+
+
+### Assignment 3 Solution:
+[Preview](https://confidenceiskey.github.io/coursera-test/module3-solution/)    
+[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module3-solution)
 
 ### Assignment 2 (Bonus) Solution:
 
-[Preview](https://confidenceiskey.github.io/coursera-test/module2-solution-bonus/)
-
-[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module2-solution-bonus)
+[Preview](https://confidenceiskey.github.io/coursera-test/module3-solution-bonus/)    
+[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module3-solution-bonus)
 
 ##
 
