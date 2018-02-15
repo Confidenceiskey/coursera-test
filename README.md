@@ -7,7 +7,7 @@ I would highly recommend taking it if you want to advance your HTML, CSS and Jav
 
 ```markdown
 
-[# Assignment 2 Solution link](https://confidenceiskey.github.io/coursera-test/module2-solution/)
+[Assignment 2 Solution link](https://confidenceiskey.github.io/coursera-test/module2-solution/)
 [## Assignment 2 Github source code]()
 
 - Bulleted
