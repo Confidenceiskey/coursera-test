@@ -4,14 +4,23 @@
 ### Here is a link to the Course [(HTML, CSS, and JavaScript for Web Developers)](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome)!
 
 
+```markdown
 
+[# Assignment 2 Solution link](https://confidenceiskey.github.io/coursera-test/module2-solution/)
+[## Assignment 2 Github source code]()
 
+- Bulleted
+- List
 
+1. Numbered
+2. List
 
+**Bold** and _Italic_ and `Code` text
 
-### Markdown (not deleted and simply used for reference)...
+[Link](url) and ![Image](src)
+```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## For Reference Information Only
 
 ```markdown
 Syntax highlighted code block
@@ -30,5 +39,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-##Reference only
