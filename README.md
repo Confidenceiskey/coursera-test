@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Coursera Assignment Solution page!
 
 You can use the [editor on GitHub](https://github.com/Confidenceiskey/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
