@@ -25,12 +25,14 @@ I would highly recommend taking it if you want to advance your HTML, CSS and Jav
 ##
 
 ### Assignment 4 (Easier) Solution:
-[Preview Solution](https://confidenceiskey.github.io/coursera-test/module4-solution-easier/)    
-[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module4-solution-easier)
+[Assignment Description](https://github.com/Confidenceiskey/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)  
+[Preview Solution](https://confidenceiskey.github.io/coursera-test/module4-solution-easier/) _Need to open the JS console_   
+[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module4-solution-easier) _See JS file_
 
 ### Assignment 4 (Harder) Solution:
-[Preview Solution](https://confidenceiskey.github.io/coursera-test/module4-solution-harder/)    
-[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module4-solution-harder)
+[Assignment Description](https://github.com/Confidenceiskey/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md) 
+[Preview Solution](https://confidenceiskey.github.io/coursera-test/module4-solution-harder/) _Need to open the JS console_    
+[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module4-solution-harder) _See JS file_
 ##
 
 ### Assignment 5 Solution:
