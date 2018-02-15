@@ -8,8 +8,7 @@ I would highly recommend taking it if you want to advance your HTML, CSS and Jav
 ##  
 
 ### Assignment 2 Solution:
-[Preview](https://confidenceiskey.github.io/coursera-test/module2-solution/)
-
+[Preview](https://confidenceiskey.github.io/coursera-test/module2-solution/)    
 [Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module2-solution)
 
 
