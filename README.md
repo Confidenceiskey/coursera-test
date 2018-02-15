@@ -8,23 +8,18 @@ I would highly recommend taking it if you want to advance your HTML, CSS and Jav
 ##  
 
 ### Assignment 2 Solution:
-[# Assignment 2 Solution link](https://confidenceiskey.github.io/coursera-test/module2-solution/)
+[Preview](https://confidenceiskey.github.io/coursera-test/module2-solution/)
+
 [Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module2-solution)
 
 
-[### Assignment 2 Bonus Solution link](https://confidenceiskey.github.io/coursera-test/module2-solution-bonus/)
-[### Assignment 2 Bonus Github source code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module2-solution-bonus)
+### Assignment 2 (Bonus) Solution:
 
-- Bulleted
-- List
+[Preview](https://confidenceiskey.github.io/coursera-test/module2-solution-bonus/)
 
-1. Numbered
-2. List
+[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module2-solution-bonus)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
+##
 
 ## For Reference Information Only
 
