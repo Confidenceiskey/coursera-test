@@ -10,13 +10,7 @@ I would highly recommend taking it if you want to advance your HTML, CSS and Jav
 ### Assignment 2 Solution:
 [Preview](https://confidenceiskey.github.io/coursera-test/module2-solution/)    
 [Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module2-solution)
-
-### Assignment 2 (Bonus) Solution:
-
-[Preview](https://confidenceiskey.github.io/coursera-test/module2-solution-bonus/)    
-[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module2-solution-bonus)
-
-
+## 
 
 ### Assignment 3 Solution:
 [Preview](https://confidenceiskey.github.io/coursera-test/module3-solution/)    
@@ -26,6 +20,12 @@ I would highly recommend taking it if you want to advance your HTML, CSS and Jav
 
 [Preview](https://confidenceiskey.github.io/coursera-test/module3-solution-bonus/)    
 [Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module3-solution-bonus)
+##
+
+### Assignment 4 (Easier) Solution:
+[Preview](https://confidenceiskey.github.io/coursera-test/module4-solution-easier/)    
+[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module4-solution-easier)
+
 
 ##
 
