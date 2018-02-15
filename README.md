@@ -26,6 +26,14 @@ I would highly recommend taking it if you want to advance your HTML, CSS and Jav
 [Preview](https://confidenceiskey.github.io/coursera-test/module4-solution-easier/)    
 [Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module4-solution-easier)
 
+### Assignment 4 (Harder) Solution:
+[Preview](https://confidenceiskey.github.io/coursera-test/module4-solution-harder/)    
+[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module4-solution-harder)
+##
+
+### Assignment 5 Solution:
+[Preview](https://confidenceiskey.github.io/coursera-test/module5-solution/)    
+[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module5-solution)
 
 ##
 
