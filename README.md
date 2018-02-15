@@ -25,14 +25,14 @@ I would highly recommend taking it if you want to advance your HTML, CSS and Jav
 ##
 
 ### Assignment 4 (Easier) Solution:
-[Assignment Description](https://github.com/Confidenceiskey/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)  
-[Preview Solution](https://confidenceiskey.github.io/coursera-test/module4-solution-easier/) _Need to open the JS console_   
-[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module4-solution-easier) _See JS file_
+[Assignment Description](https://github.com/Confidenceiskey/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)   
+[Preview Solution](https://confidenceiskey.github.io/coursera-test/module4-solution-easier/) _(Need to open the JS console)_   
+[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module4-solution-easier) _(See JS file)_
 
 ### Assignment 4 (Harder) Solution:
-[Assignment Description](https://github.com/Confidenceiskey/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md) 
-[Preview Solution](https://confidenceiskey.github.io/coursera-test/module4-solution-harder/) _Need to open the JS console_    
-[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module4-solution-harder) _See JS file_
+[Assignment Description](https://github.com/Confidenceiskey/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)   
+[Preview Solution](https://confidenceiskey.github.io/coursera-test/module4-solution-harder/) _(Need to open the JS console)_    
+[Source Code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module4-solution-harder) _(See JS file)_
 ##
 
 ### Assignment 5 Solution:
