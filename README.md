@@ -5,10 +5,13 @@
 
 I would highly recommend taking it if you want to advance your HTML, CSS and JavaScript skills and actually build a website. The instructor is very knowledge and the course was very benefitical.
 
-```markdown
 
-[Assignment 2 Solution link](https://confidenceiskey.github.io/coursera-test/module2-solution/)
-[## Assignment 2 Github source code]()
+[### Assignment 2 Solution link](https://confidenceiskey.github.io/coursera-test/module2-solution/)
+[### Assignment 2 Github source code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module2-solution)
+
+
+[### Assignment 2 Bonus Solution link](https://confidenceiskey.github.io/coursera-test/module2-solution-bonus/)
+[### Assignment 2 Bonus Github source code](https://github.com/Confidenceiskey/coursera-test/tree/gh-pages/module2-solution-bonus)
 
 - Bulleted
 - List
@@ -19,7 +22,7 @@ I would highly recommend taking it if you want to advance your HTML, CSS and Jav
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 ## For Reference Information Only
 
