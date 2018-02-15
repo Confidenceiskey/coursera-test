@@ -1,5 +1,11 @@
 ## Welcome to My Coursera Assignment Solution page!
 
+
+### Here is a link to the Course [(HTML, CSS, and JavaScript for Web Developers)](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome)!
+
+
+
+
 You can use the [editor on GitHub](https://github.com/Confidenceiskey/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
