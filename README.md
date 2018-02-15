@@ -3,6 +3,7 @@
 
 ### Here is a link to the Course [(HTML, CSS, and JavaScript for Web Developers)](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome)!
 
+I would highly recommend taking it if you want to advance your HTML, CSS and JavaScript skills and actually build a website. The instructor is very knowledge and the course was very benefitical.
 
 ```markdown
 
